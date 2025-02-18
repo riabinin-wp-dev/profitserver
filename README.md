@@ -1,5 +1,6 @@
-Верстка для сайта: https://profitserver.net/
+Верстка для сайта: 
+https://profitserver.net/  
+https://profitserver.ru/
 
-Верстку посмотреть можно по адресу: https://rvitalia.github.io/profitserver/dist/
+![image](https://github.com/user-attachments/assets/6ea1649f-9bbe-41f9-a54d-261057b00d04)
 
-![image](https://github.com/rvitalia/profitserver/assets/116353166/e6f60ff8-54a4-483c-9fd9-fcc77332012d)
